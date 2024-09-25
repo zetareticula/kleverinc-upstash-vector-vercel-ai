@@ -1,15 +1,15 @@
 export const INITIAL_QUESTIONS = [
   {
-    content: "Are there resources for students interested in creative writing?",
+    content: "Are there resources for seniors living in San Francisco??",
   },
   {
-    content: "Are there courses on environmental sustainability?",
+    content: "Are there certain avenues to take on the subject of clever aging??",
   },
   {
     content:
-      "Are there any workshops or seminars on entrepreneurship for students?",
+      "How can I avoid falling inside my home? I'm worried about my balance.",
   },
   {
-    content: "What kinds of courses will I take as a philosophy major?",
+    content: "Explain Medicare to me.",
   },
 ];
