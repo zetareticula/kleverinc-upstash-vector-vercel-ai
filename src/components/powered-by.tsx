@@ -1,21 +1,21 @@
 const PoweredBy = () => {
   return (
     <p className="mt-4 text-xs md:text-sm text-gray-600 text-center">
-      This project is a prototype for a RAG chatbot. <br /> Built using{" "}
+      Klever  transforms web searches and chatbot queries  into concise, actionable insights <br /> Without overwhelming the user.{" "}
       <a href="https://www.langchain.com/" target="_blank">
-        LangChain
+        Advanced Query Management
       </a>
       ,{" "}
       <a href="https://upstash.com" target="_blank">
-        Upstash Vector
+        Each user is offered a custom experience,
       </a>{" "}
-      and{" "}
+      where the system learns from interactions{" "}
       <a href="https://sdk.vercel.ai" target="_blank">
-        Vercel AI SDK
+        Self- Adjusting AI
       </a>{" "}
       ・{" "}
       <a href="https://github.com/upstash/DegreeGuru" target="_blank">
-        Source Code
+        User Centered Design.
       </a>
     </p>
   );
