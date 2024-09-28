@@ -3,7 +3,7 @@ const PoweredBy = () => {
     <p className="mt-4 text-xs md:text-sm text-gray-600 text-center">
       Klever  transforms web searches and chatbot queries  into concise, actionable insights <br /> Without overwhelming the user.{" "}
       <a href="https://www.langchain.com/" target="_blank">
-        Advanced Query Management
+        Advanced Query Management 
       </a>
       ,{" "}
       <a href="https://upstash.com" target="_blank">

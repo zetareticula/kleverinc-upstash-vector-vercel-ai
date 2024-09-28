@@ -24,7 +24,7 @@ export default function Home() {
           role: "system",
           content: `**Welcome to Klever**
 
-Your ultimate companion`,
+Your trusted advisor. Let's kick butt together!`,
         },
       ],
       onResponse: () => {
