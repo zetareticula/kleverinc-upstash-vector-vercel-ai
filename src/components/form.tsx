@@ -14,7 +14,7 @@ const Form = ({ inputProps, buttonProps, onSubmit }: Props, ref: any) => {
       className="relative m-auto flex items-center gap-4 justify-center"
       ref={ref}
     >
-      {/*<Avatar isUser={true} className="md:size-10 bg-gray-300" />*/}
+      {/*<Avatar isUser={true}   />*/}
 
       <input
         placeholder="Your question..."

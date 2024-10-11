@@ -3,12 +3,16 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import cx from "@/utils/cx";
 
+import React from "react";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "KleverAI",
   description: "Klever ChatBot",
 };
+
+import React from "react";
 
 export default function RootLayout({
   children,

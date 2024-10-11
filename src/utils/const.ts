@@ -1,15 +1,15 @@
 export const INITIAL_QUESTIONS = [
   {
-    content: "Are there resources for senior housing within San Francisco?",
+    content: "Can you help me find activities for seniors in my area?",
   },
   {
-    content: "Are there certain avenues to take on the subject of clever aging??",
+    content: "What transportation options exist for seniors in San Francisco?",
   },
   {
     content:
-      "How can I avoid falling inside my home? I'm worried about my balance.",
+      "How can I avoid falling inside in my own home? I'm worried about my balance.",
   },
   {
-    content: "Explain Medicare B to me.",
+    content: "What are some good exercises for seniors to do at home?",
   },
 ];
